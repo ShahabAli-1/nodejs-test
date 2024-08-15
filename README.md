@@ -9,14 +9,14 @@
 or
 # npm start
 
-# In addition I have also created simple react frontend for testing it, you can also run that as well to see it in action
+### In addition I have also created simple react frontend for testing it, you can also run that as well to see it in action
 
-# navigate to the client directory
+### navigate to the client directory
 
 # Run command
 
-### npm install
+# npm install
 
-# and then run the command
+### and then run the command
 
 ### npm start
