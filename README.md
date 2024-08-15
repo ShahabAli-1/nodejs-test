@@ -3,7 +3,7 @@
 ### Naviagte into the server directory and run the Command
 # npm i
 
-### After that run either of the to commands
+### After that run either of the two commands
 
 # npm run dev 
 or
