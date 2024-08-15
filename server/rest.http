@@ -1,0 +1,18 @@
+@baseUrl = https://calendarific.com/api/v2
+@apiKey = aPeXnDiVduwuv2up8bZ08XqQuSofYB57
+
+### Get Holidays for a Specific Country and Year
+GET {{baseUrl}}/holidays?api_key={{apiKey}}&country=PK&year=2024
+Content-Type: application/json
+
+###
+
+### Get Holidays with Missing Parameters (Expect 400 Error)
+GET {{baseUrl}}/holidays?api_key={{apiKey}}&country=PK
+Content-Type: application/json
+
+###
+
+### Get List of Supported Countries
+GET {{baseUrl}}/countries?api_key={{apiKey}}
+Content-Type
