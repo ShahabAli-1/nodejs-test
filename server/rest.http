@@ -1,5 +1,5 @@
 @baseUrl = https://calendarific.com/api/v2
-@apiKey = aPeXnDiVduwuv2up8bZ08XqQuSofYB57
+@apiKey = "your calendrify api key"
 
 ### Get Holidays for a Specific Country and Year
 GET {{baseUrl}}/holidays?api_key={{apiKey}}&country=PK&year=2024
