@@ -20,3 +20,6 @@ or
 ### and then run the command
 
 # npm start
+
+
+# I did not use the MVC Structure for the Backend to keep it simple for now..
