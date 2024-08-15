@@ -1,13 +1,13 @@
 ### Note
 
-# Naviagte into the server directory and run the Command
-### npm i
+### Naviagte into the server directory and run the Command
+# npm i
 
-# After that run either of the to commands
+### After that run either of the to commands
 
-### npm run dev 
+# npm run dev 
 or
-### npm start
+# npm start
 
 # In addition I have also created simple react frontend for testing it, you can also run that as well to see it in action
 
