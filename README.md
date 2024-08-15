@@ -19,4 +19,4 @@ or
 
 ### and then run the command
 
-### npm start
+# npm start
